@@ -1,2 +1,2 @@
 # javascript-coding-challanges
-Solution of Javascript coding exercises from jonas Schmedtmann's course.
+Solution of Javascript coding exercises from Jonas Schmedtmann's course.
